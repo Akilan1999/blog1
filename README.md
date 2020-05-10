@@ -7,7 +7,7 @@ Hargo is a fully responsive and stunning Single Product E-Commerce Template firs
 
 **The images are only for demonstration purpose, Please don't use those images.**
 
-## Table of Contents
+## Table of Contents1
 
 - [Demo](#demo)
 - [Installation](#installation)

@@ -1,11 +1,12 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = ""
 languageCode = "en-us"
 title = "Hargo | Hugo Ecommerce Site"
 theme = "hargo"
 summaryLength = "20"
 paginate = 10
 disqusShortname = ""
+relativeURLs = true
 
 ############################# Plugins ##############################
 [params.plugins]
